@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="522a2f40-81a0-4253-b5e9-ddb0a0d65f48" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1sWNFFrkR8ePccl9odQhfFY3BHj" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.FbHomeTestSuite.successfulPost">
+    <configuration name="FbHomeTestSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wallethub_Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="actions" />
+      <option name="MAIN_CLASS_NAME" value="actions.FbHomeTestSuite" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FbHomeTestSuite.FbHomeTestSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wallethub_Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="actions" />
+      <option name="MAIN_CLASS_NAME" value="actions.FbHomeTestSuite" />
+      <option name="METHOD_NAME" value="FbHomeTestSuite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FbHomeTestSuite.successfulPost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wallethub_Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="actions" />
+      <option name="MAIN_CLASS_NAME" value="actions.FbHomeTestSuite" />
+      <option name="METHOD_NAME" value="successfulPost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wallethub_Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="actions" />
+      <option name="MAIN_CLASS_NAME" value="actions.LoginTestSuite" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FbHomeTestSuite.successfulPost" />
+        <item itemvalue="TestNG.FbHomeTestSuite.FbHomeTestSuite" />
+        <item itemvalue="TestNG.FbHomeTestSuite" />
+        <item itemvalue="TestNG.LoginTestSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="522a2f40-81a0-4253-b5e9-ddb0a0d65f48" name="Default Changelist" comment="" />
+      <created>1620984280000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620984280000</updated>
+    </task>
+    <servers />
+  </component>
+</project>
